@@ -1,6 +1,8 @@
 <style>
   body {
-    background-color: #f5f5f5;
+  background-color: #f0f0f0;
+  opacity: 1;
+  color: #000000;
   }
 </style>
 
