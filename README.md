@@ -9,7 +9,7 @@
 
 Прошёл курс Яндекс Практикума: Аналитика данных по программе Цифровые Профессии.
 
-Искренне хочу быть на *склоне просветления*, но сам не понимаю где я. 
+Искренне хочу быть на *склоне просветления*, но думаю нахожусь между ...
 
 <img align="center" alt="Nice picture of campfire" width="350" src="images/Dunning.png" />
  
@@ -29,6 +29,10 @@
 
  - ***В планах***: Развернуть airflow, в него потыкаться.
 
+Тут хранятся учебные проекты с курса Яндекс Практикума: Аналитик данных, выполненные тестовые задания и мои проекты: 
+
+# ***[Кликай](https://github.com/IaroslavLanskikh/Projects)***
+
 <img align="right" alt="Nice picture of campfire" width="300" src="images/campfire2.gif" />
 
 <p align="center">
@@ -39,15 +43,18 @@
 
 ---
 
-<!--<a href="yaroslavlanskih@gmail.com">
-    <img height="32" align="left" alt="Website" src="img/icons/gmail.png" />
-</a>-->
+<a href="yaroslavlanskih@gmail.com">
+    <img height="30" align="left" src="images/gmail.png" />
+</a>
 yaroslavlanskih@gmail.com
+<br>
+<br>
+<br>
 
 <a href="https://t.me/lanskikh_iaroslav">
-    <img height="32" align="left" alt="Mail" src="images/tg.png" />
+    <img height="40" align="left" src="images/tg2.png" />
 </a>
 @lanskikh_iaroslav
 
 
-## Тут хранятся учебные проекты с курса Яндекс Практикума: Аналитик данных, выполненные тестовые задания и мои проекты: [Кликай](https://github.com/IaroslavLanskikh/Projects)
+
