@@ -1,6 +1,12 @@
-### Welcome 
-## email: yaroslavlanskih@gmail.com
 
+Добрый день, меня зовут Ланских Ярослав. На это странице было слишком пусто, добавил картинок!
+Аналитик данных, сделал несколько проектов, чтобы показать свои навыки.
+Советую смотреть последний, там в конце душещипательная история. [HH vacancies](https://github.com/IaroslavLanskikh/Projects/tree/main/pet_hh)
+
+Прошёл курс Яндекс Практикума: Аналитика данных по программе Цифровые Профессии.
+ 
+
+## email: yaroslavlanskih@gmail.com
 ## telegram: https://t.me/lanskikh_iaroslav
 
 
