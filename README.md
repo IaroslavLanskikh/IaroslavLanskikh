@@ -19,16 +19,18 @@
    
  - ***SQL***: CTE, join, window functions, PostgreSQL, ClickHouse.
    
- - ***Визуализация***: Tableau, Redash, Python Libraries.
+ - ***Визуализация***: Tableau Public, Redash, Python Libraries.
    
  - ***Продуктовые метрики***: LTV,ARPU,ARPPU,CAC,ROI, Retention rate, Churn rate.
    
  - ***A/B***: приоритизация гипотез, анализ результатов теста, проведение стат.тестов, требования к проведению тестов.
    
  - ***Другое***: HH API, TG BOT API, Docker(dockerfile,docker compose), web scraping, построение ETL процессов, <br>
-работа с терминалом (bash,sh), vim(научился выходить).
+работа с терминалом (bash,sh), vim(научился выходить), Git.
 
  - ***В планах***: Развернуть airflow, в него потыкаться.
+
+<img align="right" alt="Nice picture of campfire" width="300" src="images/campfire2.gif" />
 
 ## email: yaroslavlanskih@gmail.com
 ## telegram: https://t.me/lanskikh_iaroslav
