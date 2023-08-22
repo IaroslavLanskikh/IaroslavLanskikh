@@ -31,7 +31,23 @@
 
 <img align="right" alt="Nice picture of campfire" width="300" src="images/campfire2.gif" />
 
-# email: yaroslavlanskih@gmail.com
-# telegram: https://t.me/lanskikh_iaroslav
+<p align="center">
+    <b> Пишите!
+        <a href="https://t.me/lanskikh_iaroslav">Let's connect and talk!</a>
+    </b>
+</p>
+
+---
+
+<!--<a href="yaroslavlanskih@gmail.com">
+    <img height="32" align="left" alt="Website" src="img/icons/gmail.png" />
+</a>-->
+yaroslavlanskih@gmail.com
+
+<a href="https://t.me/lanskikh_iaroslav">
+    <img height="32" align="left" alt="Mail" src="images/tg.png" />
+</a>
+@lanskikh_iaroslav
+
 
 ## Тут хранятся учебные проекты с курса Яндекс Практикума: Аналитик данных, выполненные тестовые задания и мои проекты: [Кликай](https://github.com/IaroslavLanskikh/Projects)
