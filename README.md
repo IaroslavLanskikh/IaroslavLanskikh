@@ -1,7 +1,7 @@
 
 Добрый день, меня зовут Ланских Ярослав. <br>
 На это странице было слишком пусто, добавил картинок!
-<img align="right" alt="Nice picture of campfire" width="400" src="images/campfire.gif" />
+<img align="right" alt="Nice picture of campfire" width="300" src="images/campfire.gif" />
 
 Аналитик данных, сделал несколько проектов. Советую смотреть последний, <br>
 там в конце душещипательная история.
@@ -12,7 +12,7 @@
 
 Искренне хочу быть на *склоне просветления*, но сам не понимаю где я. 
 
-<img align="center" alt="Nice picture of campfire" width="300" src="images/Dunning.png" />
+<img align="center" alt="Nice picture of campfire" width="350" src="images/Dunning.png" />
  
 
 ## email: yaroslavlanskih@gmail.com
