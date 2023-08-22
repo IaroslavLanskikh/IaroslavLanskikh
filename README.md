@@ -12,7 +12,7 @@
 
 Искренне хочу быть на *склоне просветления*, но сам не понимаю где я. 
 
-<img align="right" alt="Nice picture of campfire" width="200" src="images/Dunning.png" />
+<img align="center" alt="Nice picture of campfire" width="200" src="images/Dunning.png" />
  
 
 ## email: yaroslavlanskih@gmail.com
