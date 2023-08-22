@@ -1,10 +1,5 @@
-<style>
-  body {
-  background-color: #f0f0f0;
-  opacity: 1;
-  color: #000000;
-  }
-</style>
+<div style="background-color: #000000; padding: 10px;">
+
 
 Добрый день, меня зовут Ланских Ярослав. <br>
 На это странице было слишком пусто, добавил картинок!
@@ -41,6 +36,6 @@
 
 ## email: yaroslavlanskih@gmail.com
 ## telegram: https://t.me/lanskikh_iaroslav
-
+</div>
 
 ## Тут хранятся учебные проекты с курса Яндекс Практикума: Аналитик данных, выполненные тестовые задания и мои проекты: [Кликай](https://github.com/IaroslavLanskikh/Projects)
