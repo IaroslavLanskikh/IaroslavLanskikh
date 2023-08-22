@@ -1,6 +1,3 @@
-<div style="background-color: #000000; padding: 10px;">
-
-
 Добрый день, меня зовут Ланских Ярослав. <br>
 На это странице было слишком пусто, добавил картинок!
 <img align="right" alt="Nice picture of campfire" width="300" src="images/campfire.gif" />
@@ -34,8 +31,7 @@
 
 <img align="right" alt="Nice picture of campfire" width="300" src="images/campfire2.gif" />
 
-## email: yaroslavlanskih@gmail.com
-## telegram: https://t.me/lanskikh_iaroslav
-</div>
+# email: yaroslavlanskih@gmail.com
+# telegram: https://t.me/lanskikh_iaroslav
 
 ## Тут хранятся учебные проекты с курса Яндекс Практикума: Аналитик данных, выполненные тестовые задания и мои проекты: [Кликай](https://github.com/IaroslavLanskikh/Projects)
