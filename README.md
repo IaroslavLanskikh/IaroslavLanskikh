@@ -14,6 +14,15 @@
 
 <img align="center" alt="Nice picture of campfire" width="350" src="images/Dunning.png" />
  
+# Инструменты:
+ - ***Python***: pandas, matplotlib, seaborn, plotly, re, numpy, BS4, requests, stats.
+ - ***SQL***: CTE, join, window functions, PostgreSQL, ClickHouse.
+ - ***Визуализация***: Tableau, Redash, Python Libraries.
+ - ***Продуктовые метрики***: LTV,ARPU,ARPPU,CAC,ROI, Retention rate, Churn rate.
+ - ***A/B***: приоритизация гипотез, анализ результатов теста, проведение стат.тестов, требования к проведению тестов.
+ - ***Другое***: HH API, TG BOT API, Docker(dockerfile,docker compose), web scraping, построение ETL процессов, <br>
+работа с терминалом (bash,sh), vim(научился выходить).
+ - ***В планах***: Развернуть airflow, в него потыкаться.
 
 ## email: yaroslavlanskih@gmail.com
 ## telegram: https://t.me/lanskikh_iaroslav
